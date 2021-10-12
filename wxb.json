@@ -1,0 +1,25 @@
+{
+  "name": "WXB",
+  "logoURI": "https://z3.ax1x.com/2021/10/12/5n0M34.jpg",
+  "keywords": [
+      "defi",
+      "YFS",
+      "yield"
+    ],
+    "timestamp": "2020-10-17T01:40:34.305Z",
+    "tokens": [
+      {
+      "chainId": 1,
+      "address": "0x572328202d37b031b490f6659d8549e7bd712324",
+      "name": "WXB",
+      "symbol": "WXB",
+      "decimals": 3,
+      "logoURI": "https://z3.ax1x.com/2021/10/12/5n0M34.jpg"
+      }
+    ],
+    "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 0
+    }
+}
